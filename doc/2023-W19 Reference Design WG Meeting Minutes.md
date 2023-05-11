@@ -26,19 +26,16 @@
 * [x] Abinesh L (DanLaw):  abineshl@danlawinc.com
 
 ## Agenda
-* Member introduction
-
-* Overview of the WG: [file](ReferenceDesignWG-Kickoff-20230510.pptx)
+* Member introduction
+* Overview of the WG: [file](ReferenceDesignWG-Kickoff-20230510.pptx)
 
 ## Notes
 * Presentation from Daniel ([file](ReferenceDesignWG-Kickoff-20230510.pptx))
-
 * Rahul:
 	* Inventory of computing platforms
 	* Arma has collected the platforms. We can start from the list: 
-
-		*  [file 1](https://drive.google.com/open?id=1d3PjkqIypyrm0xwk_AYRP0EGApPxnSw6&authuser=armagan%40leodrive.ai&usp=drive_fs)
-		*  [file 2](https://docs.google.com/document/d/1Q2hRkJ1y_smtogIYb0sQdOyot-01UpZV3DlGyGU1-Gs/edit)
+		* [file 1](https://drive.google.com/open?id=1d3PjkqIypyrm0xwk_AYRP0EGApPxnSw6&authuser=armagan%40leodrive.ai&usp=drive_fs)
+		* [file 2](https://docs.google.com/document/d/1Q2hRkJ1y_smtogIYb0sQdOyot-01UpZV3DlGyGU1-Gs/edit)
 	* What HW architecture is appropriate for AI, Machine Learning on AV
 ## Action Items:
 * (Daniel and Arma) Review the existing inventory of computing platforms.
