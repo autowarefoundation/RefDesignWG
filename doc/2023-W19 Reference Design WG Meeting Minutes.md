@@ -6,6 +6,7 @@
 
 ## Participants:
 - [x] Daniel Shih (Tier4/NTU): daniel.shih@tier4.jp
+
 - [x] Stephen Li (AutoCore): stephen.li@autocore.ai
 - [x] Rahul Razdan (Razdan Research Institute) : rahul@razinstitute.com
 - [x] Simon Teng (ARM): Simon.Teng@arm.com
