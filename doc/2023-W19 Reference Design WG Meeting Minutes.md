@@ -38,5 +38,5 @@
 		* [file 2](https://docs.google.com/document/d/1Q2hRkJ1y_smtogIYb0sQdOyot-01UpZV3DlGyGU1-Gs/edit)
 	* What HW architecture is appropriate for AI, Machine Learning on AV
 ## Action Items:
-* (Daniel and Arma) Review the existing inventory of computing platforms.
-* (Daniel and Bonolo) Add practice training to next meeting.
+* [ ] (Daniel and Arma) Review the existing inventory of computing platforms.
+* [ ] (Daniel and Bonolo) Add practice training to next meeting.
