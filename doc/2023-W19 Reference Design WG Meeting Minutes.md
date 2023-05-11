@@ -5,7 +5,7 @@
 ***
 
 ## Participants:
--  [x] Daniel Shih (Tier4/NTU): daniel.shih@tier4.jp
+- [x] Daniel Shih (Tier4/NTU): daniel.shih@tier4.jp
 - [x] Stephen Li (AutoCore): stephen.li@autocore.ai
 - [x] Rahul Razdan (Razdan Research Institute) : rahul@razinstitute.com
 - [x] Simon Teng (ARM): Simon.Teng@arm.com
@@ -26,8 +26,8 @@
 - [x] Abinesh L (DanLaw):  abineshl@danlawinc.com
 
 ## Agenda
--       Member introduction
--       Overview of the WG ([file](https://docs.google.com/presentation/d/1XZ3EO-ViXuKr5ku5r7czeimYSiIZ3HVN/edit?usp=share_link&ouid=105742989668577611888&rtpof=true&sd=true))
+- Member introduction
+- Overview of the WG ([file](https://docs.google.com/presentation/d/1XZ3EO-ViXuKr5ku5r7czeimYSiIZ3HVN/edit?usp=share_link&ouid=105742989668577611888&rtpof=true&sd=true))
 
 ## Notes
 - Presentation from Daniel ([file](https://docs.google.com/presentation/d/1XZ3EO-ViXuKr5ku5r7czeimYSiIZ3HVN/edit?usp=share_link&ouid=105742989668577611888&rtpof=true&sd=true))
@@ -37,7 +37,7 @@
 		-  [https://drive.google.com/open?id=1d3PjkqIypyrm0xwk_AYRP0EGApPxnSw6&authuser=armagan%40leodrive.ai&usp=drive_fs](https://drive.google.com/open?id=1d3PjkqIypyrm0xwk_AYRP0EGApPxnSw6&authuser=armagan%40leodrive.ai&usp=drive_fs)
 		-  [https://docs.google.com/document/d/1Q2hRkJ1y_smtogIYb0sQdOyot-01UpZV3DlGyGU1-Gs/edit](https://docs.google.com/document/d/1Q2hRkJ1y_smtogIYb0sQdOyot-01UpZV3DlGyGU1-Gs/edit)
 
-●      What HW architecture is appropriate for AI, Machine Learning on AV
+	- What HW architecture is appropriate for AI, Machine Learning on AV
 ## Action Items:
 - (Daniel and Arma) Review the existing inventory of computing platforms.
 - (Daniel and Bonolo) Add practice training to next meeting.
