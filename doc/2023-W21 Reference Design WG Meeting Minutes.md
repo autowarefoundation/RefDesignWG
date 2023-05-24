@@ -26,12 +26,13 @@
 * [ ] Bonolo Mathibela (AWF): bonolo.mathibela@autoware.org
 * [ ] Markus Schratter (Virtual Vehicles Research, Austria): markus.schratter@v2c2.at
 * [ ] Abinesh L (DanLaw):  abineshl@danlawinc.com
-
+* [ ] Lucaus Xingang Liu (Autocare): lucas.liu@autocore.ai
 
 ## Agenda
 * New Member introduction
 * Pratice Training (Bonolo)
-* Platform Spec Review
+* Compute platform and sensor configuration being set up for the research vehicle to be used by Macau U of Science ＆ Technology.
+* Platform Spec Review (Armagan)
 
 ## Notes
 * Presentation from Daniel ([file](ReferenceDesignWG-Kickoff-20230510.pptx))
