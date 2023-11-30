@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e936a3da593345f0",
+        "id": "89a7ac8261d2a106",
         "type": "tabs",
         "children": [
           {
-            "id": "8eb67ffcc35e9eaf",
+            "id": "d3579835d3f2c9d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reference Design for Go-Kart with Autoware.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "de81c2a17d1d9f7e",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference Design for Go-Kart with Autoware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference Design for Go-Kart with Autoware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference Design for Go-Kart with Autoware.md"
+              }
             }
           }
         ]
@@ -138,15 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb67ffcc35e9eaf",
+  "active": "d3579835d3f2c9d3",
   "lastOpenFiles": [
-    "Template.md",
-    "Reference Design for Go-Kart with Autoware.md",
     "Reference Design for F1Tenth with Autoware.md",
+    "~$RadarChart.xlsx",
+    "Reference Design for Go-Kart with Autoware.md",
+    "TechRadarChart-GoKart.png",
+    "Feedbacks.md",
+    "MetaRadarChart-GoKart.png",
+    "Template.md",
+    "DesignForF1Tenth.md",
+    "together_NX_00.jpeg",
+    "Autoware Foundation Taiwan.md",
     "GoKart-ComputeSensing.png",
     "AutowareCar.webp",
     "Reference Design for Go-Kart with Autoware copy.md",
-    "together_NX_00.jpeg",
     "avev_gokart.webp",
     "f1tenth_NX.webp"
   ]
