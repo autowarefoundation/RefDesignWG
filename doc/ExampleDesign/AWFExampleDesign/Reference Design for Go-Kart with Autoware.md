@@ -5,7 +5,9 @@ This document elaborates the hardware and software configurations for using Auto
 
 # Design Overview: 
 
-![Radar Chart for Go-Kart Design](RadarChart-GoKart.png)
+![Meta-Info Radar Chart for Go-Kart Design](MetaRadarChart-GoKart.png)
+
+![Tech Feature Radar Chart for Go-Kart Design](TechRadarChart-GoKart.png)
 
 # Who should read: 
 One is interested in building your small size autonomous vehicles and looks for the place to start with. 
@@ -43,7 +45,8 @@ One is interested in building your small size autonomous vehicles and looks for 
 
 Autonomous Go-Kart is a one-third scale autonomous go-kart autonomous vehicle for development and prototyping purpose. It can be used for developing and testing software components in Autoware. 
 
-![[avev_gokart.webp]]
+![System Architecture](avev_gokart.webp)
+
 # Hardware Configuration
 ## Chassis:
 -  TopKart: [link to purchase]()
@@ -57,5 +60,6 @@ Autonomous Go-Kart is a one-third scale autonomous go-kart autonomous vehicle fo
 - X86 laptop with nVidia GPU
 
 ![[GoKart-ComputeSensing.png]]
+![GoKart-ComputeSensing.png](GoKart-ComputeSensing.png)
 
 # Software Configuration 
