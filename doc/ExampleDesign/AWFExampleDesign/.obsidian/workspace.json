@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "89a7ac8261d2a106",
+        "id": "470c3a51ac39af44",
         "type": "tabs",
         "children": [
           {
-            "id": "d3579835d3f2c9d3",
+            "id": "ab643c911b7b3939",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Design for Go-Kart with Autoware.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference Design for Go-Kart with Autoware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference Design for Go-Kart with Autoware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reference Design for Go-Kart with Autoware.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3579835d3f2c9d3",
+  "active": "ab643c911b7b3939",
   "lastOpenFiles": [
+    "MacBook Pro.md",
+    "Reference Design for Go-Kart with Autoware.md",
     "Reference Design for F1Tenth with Autoware.md",
     "~$RadarChart.xlsx",
-    "Reference Design for Go-Kart with Autoware.md",
     "TechRadarChart-GoKart.png",
     "Feedbacks.md",
     "MetaRadarChart-GoKart.png",
